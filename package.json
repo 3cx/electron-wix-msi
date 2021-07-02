@@ -1,6 +1,6 @@
 {
   "name": "electron-wix-msi-local",
-  "version": "3.2.7",
+  "version": "3.2.8",
   "description": "Creates an MSI installer for your Electron app",
   "keywords": [
     "wix",
